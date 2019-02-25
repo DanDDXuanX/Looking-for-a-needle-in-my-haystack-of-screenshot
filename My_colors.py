@@ -43,4 +43,3 @@ def chromatography(N):
         return False
     else:
         return (Red(N),Green(N),Blue(N))
-
